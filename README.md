@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Raushan Kumar<br>👀 I'm interested in creating new Projects<br>🌱 I'm currently learning CSS & JavaScript<br>📫 Reach me at  raushansingh02@icloud.com<br>💭 Fun fact photoholic
+👋 Hi, I'm Raushan Kumar<br>👀 MCA student at Allahabad University, aspiring Frontend Developer<br>🌱 I'm currently learning CSS & JavaScript<br>📫 Reach me at  raushansingh02@icloud.com<br>💭 Fun fact photoholic
 
 
 ## 🌐 Socials:
