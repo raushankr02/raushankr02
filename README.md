@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Raushan Kumar<br>👀 MCA student at Allahabad University, aspiring Frontend Developer.<br>🌱 I'm currently learning CSS & JavaScript<br>📫 Reach me at  raushansingh02@icloud.com<br>
+👋 Hi, I'm Raushan Kumar<br>👀 MCA student at Allahabad University, aspiring Frontend Developer.<br>🌱 I'm currently learning CSS & JavaScript<br>📫 Reach me at  raushansingh02@icloud.com<br>Let’s connect and create something amazing! 🚀
 
 
 ## 🌐 Socials:
